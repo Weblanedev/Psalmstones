@@ -180,6 +180,17 @@ const Contact = () => {
               </p>
             </div>
           </div>
+                            <div className="flex gap-5 items-start justify-center">
+            <img src="/assets/phone.png" alt="" className="w-6 pt-1" />
+            <div className="flex flex-col items-start justify-center gap-3">
+              <h4 className="text-[24px] leading-[24px] font-medium">
+                Address
+              </h4>
+              <p className="text-yellow-500 leading-normal">
+35 Kola Amodu Crescent, Magodo, Ikosi Ketu, Lagos
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 
